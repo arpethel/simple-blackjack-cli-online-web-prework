@@ -46,7 +46,7 @@ end
 #   phrase = "Please enter a valid command"
 #   puts phrase
 #   prompt_user
-end
+
 
 #####################################################
 # get every test to pass before coding runner below #
