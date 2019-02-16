@@ -41,12 +41,12 @@ def hit?(num)
   end
   return num
 end
-#
-# def invalid_command
-#   phrase = "Please enter a valid command"
-#   puts phrase
-#   prompt_user
 
+def invalid_command
+  phrase = "Please enter a valid command"
+  puts phrase
+  prompt_user
+end
 
 #####################################################
 # get every test to pass before coding runner below #
