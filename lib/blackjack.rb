@@ -31,7 +31,7 @@ end
 
 def hit?(num)
   prompt_user
-  # get_user_input
+  get_user_input
   # return number
   # if get_user_input == 'h'
   #   number += deal_card
