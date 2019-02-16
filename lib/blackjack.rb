@@ -33,12 +33,12 @@ def hit?(num)
   prompt_user
   get_user_input
   return num
-  # if get_user_input == 'h'
-  #   number += deal_card
+  if get_user_input == 'h'
+    number += deal_card
   #   return number
-  # else
-  #   invalid_command
-  # end
+  else
+    invalid_command
+  end
   # return number
 end
 
